@@ -18,3 +18,4 @@ Bibliotecas adicionais:
 * DHT
 * SPI (integrada)
 
+<img src="https://raw.githubusercontent.com/fursee/temperatura/main/sensor.png" />
